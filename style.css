@@ -100,3 +100,50 @@ font-family: 'Shadows Into Light', cursive;
     padding: 1rem;
     color:#1E3A8A ;
 }
+.heaimg{
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+.img-head-centre{
+    position: absolute;
+    top:35%;
+    left:45%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-weight: bolder;
+
+}
+.about-header{
+    color:#1E3A8A;
+    text-align:left;
+    padding: 1rem;
+
+}
+.about-body{
+    padding: 1rem;
+    
+    font-weight:750;
+}
+.dept-vision{
+    text-align: left;
+    color:#1E3A8A;
+    padding: 1rem;
+}
+.dept-vision-body{
+
+    font-weight:normal;
+    text-align: left;
+    padding-right: 60%;
+    padding-left: 1rem;
+}
+
+.dept-mission-body{
+   font-variant: small-caps;
+}
+
+.peo-pso{
+    padding: 1rem;
+    color:#1E3A8A ;
+}  
